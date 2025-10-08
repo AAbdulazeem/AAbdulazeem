@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 I'm **Abdulazeez Abdulazeem**, a Geospatial Scientist and Surveying & Geoinformatics graduate with hands-on experience in **hydrography**, **GNSS surveying**, and **geospatial data analysis**. My academic and professional journey revolves around applying **geospatial technologies** to solve environmental and infrastructure challenges.
